@@ -1,0 +1,5 @@
+tensorflow/
+/dir/
+*.log
+third.txt
+second.txt
